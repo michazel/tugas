@@ -1,0 +1,15 @@
+D:\mekel\coding\C-C#-C++\C#\materi\obj\Debug\net7.0\materi.csproj.AssemblyReference.cache
+D:\mekel\coding\C-C#-C++\C#\materi\obj\Debug\net7.0\materi.GeneratedMSBuildEditorConfig.editorconfig
+D:\mekel\coding\C-C#-C++\C#\materi\obj\Debug\net7.0\materi.AssemblyInfoInputs.cache
+D:\mekel\coding\C-C#-C++\C#\materi\obj\Debug\net7.0\materi.AssemblyInfo.cs
+D:\mekel\coding\C-C#-C++\C#\materi\obj\Debug\net7.0\materi.csproj.CoreCompileInputs.cache
+D:\mekel\coding\C-C#-C++\C#\materi\bin\Debug\net7.0\materi.exe
+D:\mekel\coding\C-C#-C++\C#\materi\bin\Debug\net7.0\materi.deps.json
+D:\mekel\coding\C-C#-C++\C#\materi\bin\Debug\net7.0\materi.runtimeconfig.json
+D:\mekel\coding\C-C#-C++\C#\materi\bin\Debug\net7.0\materi.dll
+D:\mekel\coding\C-C#-C++\C#\materi\bin\Debug\net7.0\materi.pdb
+D:\mekel\coding\C-C#-C++\C#\materi\obj\Debug\net7.0\materi.dll
+D:\mekel\coding\C-C#-C++\C#\materi\obj\Debug\net7.0\refint\materi.dll
+D:\mekel\coding\C-C#-C++\C#\materi\obj\Debug\net7.0\materi.pdb
+D:\mekel\coding\C-C#-C++\C#\materi\obj\Debug\net7.0\materi.genruntimeconfig.cache
+D:\mekel\coding\C-C#-C++\C#\materi\obj\Debug\net7.0\ref\materi.dll
